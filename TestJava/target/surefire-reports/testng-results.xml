@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GoogleSuite" duration-ms="16822" started-at="2022-02-07T21:20:53 EET" finished-at="2022-02-07T21:21:10 EET">
+    <groups>
+    </groups>
+    <test name="HomePageTests" duration-ms="16822" started-at="2022-02-07T21:20:53 EET" finished-at="2022-02-07T21:21:10 EET">
+      <class name="com.google.tests.GoogleTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.google.tests.GoogleTests@52a86356]" name="setUp" is-config="true" duration-ms="9031" started-at="2022-02-07T21:20:53 EET" finished-at="2022-02-07T21:21:02 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goToHomePage()[pri:0, instance:com.google.tests.GoogleTests@52a86356]" name="goToHomePage" is-config="true" duration-ms="3228" started-at="2022-02-07T21:21:02 EET" finished-at="2022-02-07T21:21:06 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method status="PASS" signature="testGoogleLogoIsDisplayed()[pri:0, instance:com.google.tests.GoogleTests@52a86356]" name="testGoogleLogoIsDisplayed" duration-ms="151" started-at="2022-02-07T21:21:06 EET" finished-at="2022-02-07T21:21:06 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleLogoIsDisplayed -->
+        <test-method status="PASS" signature="goToHomePage()[pri:0, instance:com.google.tests.GoogleTests@52a86356]" name="goToHomePage" is-config="true" duration-ms="1011" started-at="2022-02-07T21:21:06 EET" finished-at="2022-02-07T21:21:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method status="PASS" signature="testGoogleTitle()[pri:0, instance:com.google.tests.GoogleTests@52a86356]" name="testGoogleTitle" duration-ms="7" started-at="2022-02-07T21:21:07 EET" finished-at="2022-02-07T21:21:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleTitle -->
+        <test-method status="PASS" signature="goToHomePage()[pri:0, instance:com.google.tests.GoogleTests@52a86356]" name="goToHomePage" is-config="true" duration-ms="863" started-at="2022-02-07T21:21:07 EET" finished-at="2022-02-07T21:21:08 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method status="PASS" signature="testSearchResultIsNotEmpty()[pri:0, instance:com.google.tests.GoogleTests@52a86356]" name="testSearchResultIsNotEmpty" duration-ms="306" started-at="2022-02-07T21:21:08 EET" finished-at="2022-02-07T21:21:08 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchResultIsNotEmpty -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.google.tests.GoogleTests@52a86356]" name="tearDown" is-config="true" duration-ms="2148" started-at="2022-02-07T21:21:08 EET" finished-at="2022-02-07T21:21:10 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.tests.GoogleTests -->
+    </test> <!-- HomePageTests -->
+  </suite> <!-- GoogleSuite -->
+</testng-results>
