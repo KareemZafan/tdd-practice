@@ -46,7 +46,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!--suppress UnresolvedMavenProperty -->
-                        <suiteXmlFile>${testngFile}</suiteXmlFile>
+                        <suiteXmlFile>testngFile</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
