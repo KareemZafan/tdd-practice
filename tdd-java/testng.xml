@@ -4,6 +4,8 @@
     <test name="Tic Tac TDD ">
         <classes>
             <class name="tic_tac_toe_tests.TicTacTests"/>
+            <class name="ship_trip_tests.ShipTripTests"/>
+
         </classes>
     </test> <!-- Test -->
 
